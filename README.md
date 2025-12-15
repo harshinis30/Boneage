@@ -112,11 +112,6 @@ jupyter notebook
 2. He et al. (2016). Deep Residual Learning for Image Recognition. CVPR.
 3. Greulich & Pyle (1959). Radiographic Atlas of Skeletal Development.
 
-## 📧 Contact
-
-- S. Srihitha: cs23b1014@iiitdm.ac.in
-- R. K. Larika: cs23b1028@iiitdm.ac.in  
-- S. Harshini: cs23b1050@iiitdm.ac.in
 
 ---
 
